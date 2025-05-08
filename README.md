@@ -8,7 +8,7 @@ A deep learning-based system to classify human emotions from voice using **Speec
 
 This project focuses on analyzing speech signals to recognize emotions such as **happy**, **sad**, **angry**, **fearful**, and more. Using key SER datasets and machine learning, it builds an end-to-end pipeline from audio feature extraction to model prediction.
 
-**Project Duration:** April 2023 – September 2023  
+**Project Duration:** August 2024 – Jan 2025  
 **Focus Areas:** Feature extraction, classification, real-time prediction  
 **Datasets Used:** CREMA-D, RAVDESS, SAVEE, TESS
 
@@ -52,6 +52,6 @@ This project focuses on analyzing speech signals to recognize emotions such as *
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/voice-emotion-recognition.git
+   git clone https://github.com/qruxz/speach-emotion-recognition.git
    cd voice-emotion-recognition
    streamlit run app.py
