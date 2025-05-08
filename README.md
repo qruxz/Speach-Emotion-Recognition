@@ -54,3 +54,4 @@ This project focuses on analyzing speech signals to recognize emotions such as *
    ```bash
    git clone https://github.com/your-username/voice-emotion-recognition.git
    cd voice-emotion-recognition
+   streamlit run app.py
