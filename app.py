@@ -439,15 +439,15 @@ def main():
         st.balloons()
         col1, col2 = st.columns([3, 2])
         with col1:
-            st.info("devanshipurohit@gmail.com")
-            st.info("sanikamohite@gmail.com")
+            st.info("test1@gmail.com")
+            st.info("test2@gmail.com")
           
         with col2:
             liimg = Image.open("images/LI-Logo.png")
             st.image(liimg)
-            st.markdown(f""":speech_balloon: [Devanshi Purohit](devanshipurohit@gmail.com)""",
+            st.markdown(f""":speech_balloon: [kamal](test1@gmail.com)""",
                         unsafe_allow_html=True)
-            st.markdown(f""":speech_balloon: [Sanika Mohite](sanikamohite@gmail.com)""",
+            st.markdown(f""":speech_balloon: [test](test2@gmail.com)""",
                         unsafe_allow_html=True)
 
     elif website_menu == "Leave feedback":
